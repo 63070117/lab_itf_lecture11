@@ -10,7 +10,7 @@
         <img src="https://s.isanook.com/me/0/rp/r/w850/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL21lLzAvdWQvMTMvNjYxOTcvYmVlci5qcGc=.jpg">
         <img src="https://www.khaosod.co.th/wpapp/uploads/2020/04/chok-6.jpg">
         <br>
-        <a href="https://ejudge.it.kmitl.ac.th/auth/login?next=%2Fproblem">E<Judge></a>
+        <a href="https://ejudge.it.kmitl.ac.th/auth/login?next=%2Fproblem">EJudge</a>
         <a href="https://www.youtube.com">Youtube Link</a>
         
     </body>
